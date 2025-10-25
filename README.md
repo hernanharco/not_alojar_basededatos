@@ -27,6 +27,4 @@ Aquí tienes una lista comparativa de servicios que ofrecen planes gratuitos gen
 
 Los planes gratuitos y sus limitaciones pueden cambiar en cualquier momento. **Revisa siempre los términos y condiciones** actuales de cada proveedor antes de desplegar una aplicación en producción.
 
-## ¿Falta alguno?
 
-Si conoces otro servicio genial con un tier gratuito que debería estar en esta lista, ¡no dudes en abrir un **Pull Request** o un **Issue**!
